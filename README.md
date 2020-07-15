@@ -1,1 +1,2 @@
-The goal of this mini project is to 
+
+Machine Learning Regression for model selection 
